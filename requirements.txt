@@ -53,7 +53,7 @@ html5lib
 feedparser
 tldextract
 dateparser
-twistdl
+
 
 #Pyrogram
 tgCrypto>=1.2.2
